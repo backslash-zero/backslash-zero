@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![celestin](/celestin.png?raw=true)
+
+My name is Célestin, I'm a french designer, developer and visual artist.
+I'm currently focusing on learning how to code at 42 school.
+You can find out more about me on [celest.in](https://celest.in).
+For inquiries please reach out to me at hello (at) celest.in
+
+
 <!--
 **backslash-zero/backslash-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
