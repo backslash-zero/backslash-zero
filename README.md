@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![celestin](/celestin.png?raw=true)
-
 My name is Célestin, I'm a french designer, developer and visual artist.
 I'm currently focusing on learning how to code at 42 school.
 You can find out more about me on [celest.in](https://celest.in).
