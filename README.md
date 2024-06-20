@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Célestin, I'm a french designer, developer and visual artist.
-I'm a 42 alumnus.
-You can find out more about me on [celest.in](https://celest.in).
-For inquiries please reach out to me at hello (at) celest.in
+My name is Célestin, I'm a media artist and researcher @ Design & Computation .
+More info [celest.in](https://celest.in).
+For inquiries:  hello (at) celest.in
 
 
 <!--
